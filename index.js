@@ -131,13 +131,13 @@ inquirer
                   {
                     type: "input",
                     name: "empRole",
-                    message: "What role will this employee be filling?",
+                    message: "Please enter the role id for this employee.",
                   },
                   {
                     type: "input",
                     name: "empMan",
                     message:
-                      "Please enter the six-digit manager id for this employee.",
+                      "Please enter the manager id for this employee.",
                   },
                 ])
                 .then((answers) => {
