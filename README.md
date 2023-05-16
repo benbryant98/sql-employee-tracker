@@ -39,7 +39,7 @@ Contributions can be made to the project by visiting https://github.com/benbryan
 
 ## Video Walkthrough
 
-[Video](#)
+[Link](https://drive.google.com/file/d/1AuGpp-77UK9LFoellaBGGOGmpRpdJHNg/view)
 
 ## Questions
 
